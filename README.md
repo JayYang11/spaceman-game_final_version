@@ -1,3 +1,8 @@
+
+<img width="704" height="699" alt="spaceman" src="https://github.com/user-attachments/assets/4995658d-e471-46bf-8d04-af4689e643ca" />
+
+
+
 Spaceman Word Guessing Game
 
 Description
@@ -32,4 +37,5 @@ Future upgrades I'd like to code:
 
 Add sound effects for correct/wrong guesses
 Include difficulty levels (easy/medium/hard)
+
 Add animated spaceman visual like adding body parts in hangman
