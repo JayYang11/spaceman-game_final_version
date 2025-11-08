@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spaceman</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="container">
+    <h1>SPACEMAN</h1>
+    
+    <section class="how-to">
+      <strong>How to Play:</strong> Click letters to guess the space themed word. You lose after 6 wrong guesses.
+    </section>
+    
+    <section class="status">
+      <p id="status">Spaceman is safe</p>
+    </section>
+    
+    <p id="word" class="word"></p>
+    
+    <section class="stats">
+      <article class="stat">
+        Wrong: <span id="wrong">0 / 6</span>
+      </article>
+      <article class="stat">
+        Guessed: <span id="guessed">0</span>
+      </article>
+    </section>
+    
+    <section id="buttons" class="buttons"></section>
+    
+    <p id="msg" class="msg"></p>
+    
+    <button id="btn" class="btn">Replay</button>
+  </main>
+
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
