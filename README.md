@@ -1,6 +1,9 @@
 
 <img width="704" height="699" alt="spaceman" src="https://github.com/user-attachments/assets/4995658d-e471-46bf-8d04-af4689e643ca" />
 
+
+Play the game: https://jayyang11.github.io/spaceman-game_final_version/
+
 repo link: https://github.com/JayYang11/spaceman-game_final_version.git
 
 Spaceman Word Guessing Game
@@ -41,3 +44,4 @@ Include difficulty levels (easy/medium/hard)
 Add animated spaceman visual like adding body parts in hangman
 
 There are few commits on this because I had to redo the repo, I linked the previous work I had in planning materials. Also, this project was done in the span of 2.5 days. 
+
