@@ -40,3 +40,4 @@ Include difficulty levels (easy/medium/hard)
 
 Add animated spaceman visual like adding body parts in hangman
 
+There are few commits on this because I had to redo the repo, I linked the previous work I had in planning materials. Also, this project was done in the span of 2.5 days. 
